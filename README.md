@@ -7,9 +7,9 @@ I was able to import and perform analysis.  You are able to interact to see vari
 these three cities. These statisitcs include most popular times, stations, routes, etc.  
 
 **Files used**:
--washington.csv
--new_york_city.csv
--chicago.csv
+* washington.csv
+* new_york_city.csv
+* chicago.csv
 
 **Credits**:
 stackoverflow.com
