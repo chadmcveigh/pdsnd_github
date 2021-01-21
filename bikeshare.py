@@ -67,6 +67,7 @@ def load_data(city, month, day):
     #Reading in csv file to dataframe
     df = pd.read_csv(CITY_DATA[city])
     
+    #Creating data frame
     df['Start Time'] = pd.to_datetime(df['Start Time'])
     df['Month'] = df['Start Time'].dt.month
     df['Weekday'] = df['Start Time'].dt.day_name()
