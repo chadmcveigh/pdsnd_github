@@ -11,6 +11,8 @@ the bikeshare data in these three cities.
 -new_york_city.csv
 -chicago.csv
 
-### Credits
+**Credits**:
+stackoverflow.com
+Udacity Mentor Help
 
 
