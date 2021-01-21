@@ -228,6 +228,7 @@ def raw_data(df):
             if raw_data_choice.lower() == 'y':
                 continue
             else:
+                print("You chose not to see more raw data")
                 break
         break
 
